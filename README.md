@@ -1,2 +1,3 @@
-# easyvizzy
-Some set of scripts for easy visualizations like Stacked bar plot and radial charts
+## EASYVIZZY
+
+# Python Scripts to create complex visualizations like stacked bar charts and radial plots quite easily.
